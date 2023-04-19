@@ -30,7 +30,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>jenkins-dockeer-integration</finalName>
+		<finalName>jenkins-docker-integration</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
